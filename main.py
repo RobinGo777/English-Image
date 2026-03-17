@@ -41,9 +41,9 @@ GROQ_API_KEY       = os.environ["GROQ_API_KEY"]
 # ──────────────────────────────────────────────
 GEMINI_MODELS = [
     "gemini-2.5-flash",
-    "gemini-2.0-flash",
-    "gemini-2.0-flash-lite",
-    "gemini-2.5-pro",
+    "gemini-2.5-flash-lite",
+    "gemini-3.1-flash-lite-preview",
+    "Gemini gemini-3.1-flash-lite-preview",
 ]
 GROQ_MODEL = "llama-3.3-70b-versatile"
 
